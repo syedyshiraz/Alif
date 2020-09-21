@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Alif/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Alif/static/js/main.5b08b5e6.chunk.js",
+    "main.js.map": "/Alif/static/js/main.5b08b5e6.chunk.js.map",
+    "runtime-main.js": "/Alif/static/js/runtime-main.dc1f2293.js",
+    "runtime-main.js.map": "/Alif/static/js/runtime-main.dc1f2293.js.map",
+    "static/js/2.5791c5c3.chunk.js": "/Alif/static/js/2.5791c5c3.chunk.js",
+    "static/js/2.5791c5c3.chunk.js.map": "/Alif/static/js/2.5791c5c3.chunk.js.map",
+    "index.html": "/Alif/index.html",
+    "precache-manifest.9141b4ffff3dc87204dd7bc16663e9b2.js": "/Alif/precache-manifest.9141b4ffff3dc87204dd7bc16663e9b2.js",
+    "service-worker.js": "/Alif/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Alif/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5791c5c3.chunk.js.LICENSE.txt": "/Alif/static/js/2.5791c5c3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Alif/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc1f2293.js",
+    "static/js/2.5791c5c3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5b08b5e6.chunk.js"
+  ]
+}
