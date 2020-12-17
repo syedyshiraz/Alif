@@ -3937,6 +3937,11 @@
     "arrify" "^1.0.1"
     "path-type" "^3.0.0"
 
+"disable-scroll@^0.6.0":
+  "integrity" "sha512-6bTAS16sz+3X7Pib8d5dAO9xo5MvqDZvSlzuhW/2c3NhUvbPNqnsV3JttvnqgNCDEgWUgNWJYM392iUmLETDxA=="
+  "resolved" "https://registry.npmjs.org/disable-scroll/-/disable-scroll-0.6.0.tgz"
+  "version" "0.6.0"
+
 "dns-equal@^1.0.0":
   "integrity" "sha1-s55/HabrCnW6nBcySzR1PEfgZU0="
   "resolved" "https://registry.npmjs.org/dns-equal/-/dns-equal-1.0.0.tgz"

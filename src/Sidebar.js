@@ -1,5 +1,6 @@
 import React from 'react'
 import { StyleSheet, css } from 'aphrodite'
+import disableScroll from 'disable-scroll';
 import quill from './quill.svg'
 import newIco from './new.png'
 import newHover from './new-hover.png'
@@ -7,7 +8,7 @@ import newHover from './new-hover.png'
 const Sidebar = () => {
         return (
             <nav
-                className={css(styles.sidebar)}>
+                className={css(styles.sidebar,disableScroll.on())}>
                 <div
                     className={css(styles.logo)}>
                     <img src={quill} className={css(styles.logoImg)} alt="Alif" />
@@ -41,6 +42,7 @@ const styles = StyleSheet.create({
         display: 'flex', 
         flexDirection: 'column', 
         alignItems: 'center',
+        overflow: 'hidden'
     },
     logo: {
         fontFamily: "Fauna One",
