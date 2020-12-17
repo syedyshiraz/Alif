@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Alif/static/css/main.e7b6f579.chunk.css",
-    "main.js": "/Alif/static/js/main.e7fb2a0d.chunk.js",
-    "main.js.map": "/Alif/static/js/main.e7fb2a0d.chunk.js.map",
+    "main.js": "/Alif/static/js/main.9be94034.chunk.js",
+    "main.js.map": "/Alif/static/js/main.9be94034.chunk.js.map",
     "runtime-main.js": "/Alif/static/js/runtime-main.dc1f2293.js",
     "runtime-main.js.map": "/Alif/static/js/runtime-main.dc1f2293.js.map",
     "static/js/2.0a0c3a65.chunk.js": "/Alif/static/js/2.0a0c3a65.chunk.js",
     "static/js/2.0a0c3a65.chunk.js.map": "/Alif/static/js/2.0a0c3a65.chunk.js.map",
     "index.html": "/Alif/index.html",
-    "precache-manifest.5c7123fae8fe216067b44543e7647d8d.js": "/Alif/precache-manifest.5c7123fae8fe216067b44543e7647d8d.js",
+    "precache-manifest.9418339ea18d293aa0005f98b6a27d60.js": "/Alif/precache-manifest.9418339ea18d293aa0005f98b6a27d60.js",
     "service-worker.js": "/Alif/service-worker.js",
     "static/css/main.e7b6f579.chunk.css.map": "/Alif/static/css/main.e7b6f579.chunk.css.map",
     "static/js/2.0a0c3a65.chunk.js.LICENSE.txt": "/Alif/static/js/2.0a0c3a65.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.dc1f2293.js",
     "static/js/2.0a0c3a65.chunk.js",
     "static/css/main.e7b6f579.chunk.css",
-    "static/js/main.e7fb2a0d.chunk.js"
+    "static/js/main.9be94034.chunk.js"
   ]
 }
