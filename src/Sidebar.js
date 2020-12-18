@@ -8,7 +8,7 @@ import newHover from './new-hover.png'
 const Sidebar = () => {
         return (
             <nav
-                className={css(styles.sidebar,disableScroll.on())}>
+                className={css(styles.sidebar)}>
                 <div
                     className={css(styles.logo)}>
                     <img src={quill} className={css(styles.logoImg)} alt="Alif" />
@@ -41,8 +41,10 @@ const styles = StyleSheet.create({
         padding: '0.5rem 0', 
         display: 'flex', 
         flexDirection: 'column', 
+        height:'100%',
+        flexWrap: 'wrap',
         alignItems: 'center',
-        overflow: 'hidden'
+        touchAction: 'none',
     },
     logo: {
         fontFamily: "Fauna One",
