@@ -4,7 +4,7 @@
 ## Online Compiler
 
 <img src="https://github.com/syedyshiraz/Alif/src/read-min.gif" height="250" width="250" />
-![Compiler Demo](https://github.com/syedyshiraz/Alif/src/read-min.gif = 250x250)
+![Compiler Demo](https://github.com/syedyshiraz/Alif/src/read-min.gif)
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
