@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Alif/static/css/main.f3bd309e.chunk.css",
+    "main.css": "/Alif/static/css/main.029d7727.chunk.css",
     "main.js": "/Alif/static/js/main.e23e91a0.chunk.js",
     "main.js.map": "/Alif/static/js/main.e23e91a0.chunk.js.map",
     "runtime-main.js": "/Alif/static/js/runtime-main.dc1f2293.js",
@@ -8,9 +8,9 @@
     "static/js/2.3d01fe6e.chunk.js": "/Alif/static/js/2.3d01fe6e.chunk.js",
     "static/js/2.3d01fe6e.chunk.js.map": "/Alif/static/js/2.3d01fe6e.chunk.js.map",
     "index.html": "/Alif/index.html",
-    "precache-manifest.f43ef2e71f1412a8f3fd5ef158a651fb.js": "/Alif/precache-manifest.f43ef2e71f1412a8f3fd5ef158a651fb.js",
+    "precache-manifest.baa001168c00a7c5824e8bc4f1cff3cc.js": "/Alif/precache-manifest.baa001168c00a7c5824e8bc4f1cff3cc.js",
     "service-worker.js": "/Alif/service-worker.js",
-    "static/css/main.f3bd309e.chunk.css.map": "/Alif/static/css/main.f3bd309e.chunk.css.map",
+    "static/css/main.029d7727.chunk.css.map": "/Alif/static/css/main.029d7727.chunk.css.map",
     "static/js/2.3d01fe6e.chunk.js.LICENSE.txt": "/Alif/static/js/2.3d01fe6e.chunk.js.LICENSE.txt",
     "static/media/new-hover.png": "/Alif/static/media/new-hover.4bedb7b2.png",
     "static/media/new.png": "/Alif/static/media/new.e43ea329.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.dc1f2293.js",
     "static/js/2.3d01fe6e.chunk.js",
-    "static/css/main.f3bd309e.chunk.css",
+    "static/css/main.029d7727.chunk.css",
     "static/js/main.e23e91a0.chunk.js"
   ]
 }
