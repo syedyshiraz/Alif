@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee7a3b9a8af5ac3b9f55d798afc21387",
+    "revision": "8b2ee327d4976f8a6b68e6137c1de904",
     "url": "/Alif/index.html"
   },
   {
-    "revision": "842dc9c010ae095a0bcd",
-    "url": "/Alif/static/css/main.dad6fa96.chunk.css"
+    "revision": "cb750bed415b2815ddb4",
+    "url": "/Alif/static/css/main.64bdb6f1.chunk.css"
   },
   {
-    "revision": "a9b655f120415e0f589f",
-    "url": "/Alif/static/js/2.23885434.chunk.js"
+    "revision": "0d9d8339206bbef0687e",
+    "url": "/Alif/static/js/2.3d01fe6e.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Alif/static/js/2.23885434.chunk.js.LICENSE.txt"
+    "url": "/Alif/static/js/2.3d01fe6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "842dc9c010ae095a0bcd",
-    "url": "/Alif/static/js/main.0372e621.chunk.js"
+    "revision": "cb750bed415b2815ddb4",
+    "url": "/Alif/static/js/main.f4c28dd3.chunk.js"
   },
   {
     "revision": "91e8169be1067712e271",
