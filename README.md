@@ -3,6 +3,7 @@
 
 ## Online Compiler
 
+<img src="https://github.com/syedyshiraz/Alif/src/read-min.gif" height="250" width="250" />
 ![Compiler Demo](https://github.com/syedyshiraz/Alif/src/read-min.gif = 250x250)
 
 Runs the app in the development mode.<br />
